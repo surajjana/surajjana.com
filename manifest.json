@@ -1,0 +1,16 @@
+{
+  "name": "Hey Medy",
+  "short_name": "Heymedy",
+  "description": "Hey Medy Application",
+  "start_url": "/",
+  "scope": ".",
+  "background_color": "#fff",
+  "theme_color": "#2C746E",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "icons": [{
+    "src": "img/medy-sq-logo.jpg",
+    "sizes": "256x256",
+    "type": "image/png"
+  }]
+}

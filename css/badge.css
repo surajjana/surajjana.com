@@ -1,0 +1,43 @@
+.badge-header h3 {
+  font-size: 32px;
+  color: #2d2d2d;
+  text-align: center;
+  font-weight: 500;
+  padding-top: 15px;
+  position: relative;
+}
+
+.badge-header #issuer{
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+  padding-bottom: 15px; 
+  color: #556877;
+  width: 50%;
+}
+
+.badge-header #badge_description {
+  text-align: center;
+  margin: auto;
+  font-size: 15px;
+  padding-bottom: 50px;
+  color: #556877;
+  width: 50%;
+}
+
+h4 {
+  font-size: 26px;
+  color: #2d2d2d;
+  font-weight: 500;
+  padding-top: 15px;
+}
+
+h5 {
+  color: #2d2d2d;
+  font-weight: 500;
+}
+
+.skills {
+  padding: 10px;
+  margin: 5px;
+}
